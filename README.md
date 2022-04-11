@@ -1,2 +1,2 @@
-# B-Tree
+# B+Tree
 CS245 assignment
